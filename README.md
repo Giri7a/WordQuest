@@ -20,4 +20,5 @@
 ## Embark on "WordQuest" now:
 1. Launch the program and let the journey begin.
 1. Challenge yourself to decode words and experience the thrill of the quest within the console realm.
+
 *> "WordQuest: Java Hangman Adventure" offers a captivating blend of strategy, wordplay, and suspense, making it the perfect choice for those seeking a dynamic and entertaining Hangman experience.
