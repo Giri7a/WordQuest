@@ -1,6 +1,6 @@
 # WordQuest
 
-> * Embark on a linguistic journey with "WordQuest," an engaging Java implementation of the classic Hangman game. Challenge your word prowess as you decipher hidden words randomly selected from a diverse list. With a limited number of attempts, every guess is a critical step in unveiling the mystery word. 
+> * Embark on a linguistic journey with "WordQuest," an engaging Java implementation of the classic Hangman game. Challenge your word prowess as you decipher hidden words randomly selected from a diverse list. With a limited number of attempts, every guess is a critical step in unveiling the mystery word.
 
 ## Key Features:
 * Random Word Selection: Words are dynamically chosen from a captivating pool, ensuring a unique and thrilling experience with each playthrough.
